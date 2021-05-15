@@ -7,7 +7,7 @@ the file can be edited with Libre Office (for example), so feel free to contribu
 
 
 
-
+<hr>
 
 
 # Original Prusa i3 MK3S
