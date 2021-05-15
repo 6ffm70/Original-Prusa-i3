@@ -1,3 +1,10 @@
+I have forked the original repository to contribute more definitions to the i3 Mk3s branch.
+
+This starts with the <b>engineering bill of material</b>:
+the file can be edited with Libre Office (for example), so feel free to contribute missing content.
+
+
+
 # Original Prusa i3 MK3S
 
 
